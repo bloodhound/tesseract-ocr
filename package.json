@@ -1,0 +1,9 @@
+{
+  "name": "tesseract-ocr",
+  "description": "Bloodhound's fork of Google's Tesseract OCR project.",
+  "version": "0.1.0",
+  "url": {
+    "type": "git",
+    "url": "git://github.com/bloodhound/tesseract-ocr.git"
+  }
+}
